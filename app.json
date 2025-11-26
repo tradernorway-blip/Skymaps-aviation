@@ -1,1 +1,16 @@
+{
+  "expo": {
+    "name": "Skymaps Aviation",
+    "slug": "skymaps-aviation",
+    "version": "1.0.0",
+    "platforms": ["android", "ios", "web"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "sdkVersion": "48.0.0",
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "foregroundImage": "./assets/icon.png", "backgroundColor": "#ffffff" } }
+  }
+}
 
