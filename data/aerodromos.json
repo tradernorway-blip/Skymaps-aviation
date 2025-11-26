@@ -1,0 +1,44 @@
+{
+  "aerodromos": [
+    {
+      "id": "LEIG",
+      "nombre": "Igualada–Òdena",
+      "provincia": "Barcelona",
+      "tipo": "Aeródromo público / No controlado",
+      "lat": 41.58417,
+      "lon": 1.65278,
+      "elev_ft": 1083,
+      "pdfs": [
+        "IGUALADA_LE_guiaVFR_LEIG.pdf",
+        "IGUALADABARNA_Igualada-Odena.pdf",
+        "IGUALADABARNA_aerodromo-IGUALADA_ODENA.pdf"
+      ]
+    },
+    {
+      "id": "GURB",
+      "nombre": "Gurb (Barcelona)",
+      "provincia": "Barcelona",
+      "tipo": "ULM permitido",
+      "lat": 41.80000,
+      "lon": 2.20000,
+      "elev_ft": 500,
+      "pdfs": [
+        "GURBBARNA_aerodromo_Gurb-carta.pdf",
+        "GURBBARNA_VFR.pdf"
+      ]
+    },
+    {
+      "id": "BELLVEI",
+      "nombre": "Bellvei (Tarragona)",
+      "provincia": "Tarragona",
+      "tipo": "ULM permitido",
+      "lat": 41.20000,
+      "lon": 1.10000,
+      "elev_ft": 250,
+      "pdfs": [
+        "BELLVEITARRAGONA_VFR.pdf",
+        "BELLVEITARRAGONA_aerodromo-BELLVEI.pdf"
+      ]
+    }
+  ]
+}
